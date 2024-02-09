@@ -1,1 +1,1 @@
-# Generatively-Pretrained-Transformer-GPT-
+# Generatively-Pretrained-Transformer-GPT
